@@ -26,3 +26,4 @@ for container in containers:
 	model = model_container[0].text
 	print ("Make: " + make)
 	print ("Model: " + model)
+	print (" ")
