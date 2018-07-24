@@ -1,0 +1,11 @@
+## Interface: 70300
+## Title: |cff00ccffChuffTracker|r Aura Tracker
+## Version: 0.8 Beta
+## Notes: This is my first addon ever.  It's a simple aura tracker frame.
+## Author: Khron
+## DefaultState: enabled
+## SavedVariables: ChuffTracker
+
+config.lua
+timer.lua
+init.lua
